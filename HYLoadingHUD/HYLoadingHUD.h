@@ -10,10 +10,10 @@
 
 @interface HYLoadingHUD : UIView
 
-// the HUD will show when call this method
+// the HUD will show when called this method
 +(void)show;
 
-// the HUD will dismiss  when call this method
+// the HUD will dismiss  when called this method
 +(void)dismiss;
 
 // set the backgroundView`s color(default is gray color)
